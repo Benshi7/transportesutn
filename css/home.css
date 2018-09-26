@@ -1,0 +1,50 @@
+/* begin index.html */
+
+.homeimg{
+	margin-bottom: 1.5em;
+	clear: both;
+}
+
+.bienvenidos{
+
+	width: 70%;
+	padding-right: 2em;
+}
+
+.bienvenidos p{
+	font-size: 1.3em;
+}
+
+.testimonios{
+	width: 30%;
+}
+
+.bienvenidos, .testimonios{
+	box-sizing: border-box;
+}
+
+
+.testcuadro{
+
+	background-color: #ddd;
+	padding: 1em;
+}
+
+.testcuadro .cita{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.4em;
+	color: black;
+	margin-bottom: 12px;
+	display: block;
+}
+
+.testcuadro .autor{
+	margin-left: 30px;
+	font-size: 0.7em;
+	color: #333;
+	text-align: center;
+	display: block;
+}
+
+/* end index.html */
